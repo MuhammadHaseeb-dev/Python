@@ -1,0 +1,2 @@
+This code was written in pyhton to extract names with their meanings from a PDF file and to save in JSON format. Code opens a PDF file from same location where code file exists, reads each line one by one, identifies names of males and females and saves names and their meanings in their respective Dictionary. When whole of the PDF file is traversed at the end both male and female dictionaries are saved in JSON format upon specified location.
+Note: This code is written for the specific file named as "Islamic-Names-Boys-Girls.pdf". you can download it from here.
